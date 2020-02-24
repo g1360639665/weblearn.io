@@ -17,7 +17,7 @@
 	background-repeat:no-repeat;
 	}
 	header .logo a{
-		background-image: url('images/logo.jpg');
+		background-image: url('logo.jpg');
 		background-size:200px;
 		background-repeat:no-repeat;
 		display:inline-block;
